@@ -8,7 +8,7 @@ My Enigma program, internally, works on base64 module of Python. Base64 has func
 
 An interactive UI is also designed with tkinter. 
 
-![image](<img width="447" alt="Enigma 1" src="https://user-images.githubusercontent.com/77152270/172053064-2c18dc58-0c4f-4ad4-900b-d68b659d8021.png">)
+<img width="447" alt="Enigma 1" src="https://user-images.githubusercontent.com/77152270/172053214-5a71bd75-4247-4d62-8889-327585c93a91.png">
 
 We can enter any **Message** and a **Key**, which is to be kept secret.
 
@@ -27,7 +27,8 @@ The end Result will be the same message, entered by the user.
 
 # Output
 
-![image](<img width="448" alt="enigma 2" src="https://user-images.githubusercontent.com/77152270/172053085-94ac1781-b63f-4ce3-9b20-606ab90f2be5.png">)
+<img width="448" alt="enigma 2" src="https://user-images.githubusercontent.com/77152270/172053223-dffec7cb-1bd9-44df-b076-c5dda7ddd028.png">
+
 
 # Its Uses
 This application can be used in secure encryption-decryption of messages which can be used to transfer message confidentially.
